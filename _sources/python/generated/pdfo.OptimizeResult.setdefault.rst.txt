@@ -1,0 +1,8 @@
+pdfo.OptimizeResult.setdefault
+==============================
+
+.. currentmodule:: pdfo
+
+method
+
+.. automethod:: pdfo::OptimizeResult.setdefault

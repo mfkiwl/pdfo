@@ -1,0 +1,8 @@
+﻿
+
+pdfo.uobyqa
+===========
+
+.. currentmodule:: pdfo
+
+.. autofunction:: pdfo::uobyqa

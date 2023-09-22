@@ -1,0 +1,29 @@
+﻿pdfo.OptimizeResult
+===================
+
+.. currentmodule:: pdfo
+
+.. autoclass:: OptimizeResult
+
+   
+
+    ..
+        .. autosummary::
+            :toctree:
+        
+            OptimizeResult.clear
+            OptimizeResult.copy
+            OptimizeResult.fromkeys
+            OptimizeResult.get
+            OptimizeResult.items
+            OptimizeResult.keys
+            OptimizeResult.pop
+            OptimizeResult.popitem
+            OptimizeResult.setdefault
+            OptimizeResult.update
+            OptimizeResult.values
+
+
+
+   
+

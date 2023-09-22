@@ -1,0 +1,8 @@
+﻿
+
+pdfo.pdfo
+=========
+
+.. currentmodule:: pdfo
+
+.. autofunction:: pdfo::pdfo

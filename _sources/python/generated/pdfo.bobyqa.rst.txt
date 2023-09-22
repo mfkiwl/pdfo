@@ -1,0 +1,8 @@
+﻿
+
+pdfo.bobyqa
+===========
+
+.. currentmodule:: pdfo
+
+.. autofunction:: pdfo::bobyqa

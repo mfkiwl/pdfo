@@ -1,0 +1,8 @@
+﻿
+
+pdfo.newuoa
+===========
+
+.. currentmodule:: pdfo
+
+.. autofunction:: pdfo::newuoa

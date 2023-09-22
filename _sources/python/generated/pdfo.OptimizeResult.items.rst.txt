@@ -1,0 +1,8 @@
+pdfo.OptimizeResult.items
+=========================
+
+.. currentmodule:: pdfo
+
+method
+
+.. automethod:: pdfo::OptimizeResult.items

@@ -1,0 +1,8 @@
+pdfo.OptimizeResult.popitem
+===========================
+
+.. currentmodule:: pdfo
+
+method
+
+.. automethod:: pdfo::OptimizeResult.popitem

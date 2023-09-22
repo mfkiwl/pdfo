@@ -1,0 +1,18 @@
+﻿pdfo.LinearConstraint
+=====================
+
+.. currentmodule:: pdfo
+
+.. autoclass:: LinearConstraint
+
+   
+
+    ..
+        .. autosummary::
+            :toctree:
+        
+
+
+
+   
+

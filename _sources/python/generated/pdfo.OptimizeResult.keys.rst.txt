@@ -1,0 +1,8 @@
+pdfo.OptimizeResult.keys
+========================
+
+.. currentmodule:: pdfo
+
+method
+
+.. automethod:: pdfo::OptimizeResult.keys

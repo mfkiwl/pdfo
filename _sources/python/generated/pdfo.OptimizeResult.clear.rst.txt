@@ -1,0 +1,8 @@
+pdfo.OptimizeResult.clear
+=========================
+
+.. currentmodule:: pdfo
+
+method
+
+.. automethod:: pdfo::OptimizeResult.clear

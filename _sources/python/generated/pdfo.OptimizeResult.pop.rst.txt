@@ -1,0 +1,8 @@
+pdfo.OptimizeResult.pop
+=======================
+
+.. currentmodule:: pdfo
+
+method
+
+.. automethod:: pdfo::OptimizeResult.pop

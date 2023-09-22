@@ -1,0 +1,8 @@
+﻿
+
+pdfo.lincoa
+===========
+
+.. currentmodule:: pdfo
+
+.. autofunction:: pdfo::lincoa

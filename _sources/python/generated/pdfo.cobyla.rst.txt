@@ -1,0 +1,8 @@
+﻿
+
+pdfo.cobyla
+===========
+
+.. currentmodule:: pdfo
+
+.. autofunction:: pdfo::cobyla

@@ -1,0 +1,18 @@
+﻿pdfo.NonlinearConstraint
+========================
+
+.. currentmodule:: pdfo
+
+.. autoclass:: NonlinearConstraint
+
+   
+
+    ..
+        .. autosummary::
+            :toctree:
+        
+
+
+
+   
+
